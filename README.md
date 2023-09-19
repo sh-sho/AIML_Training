@@ -1,4 +1,3 @@
 # AIML_Training
-AIML Training
+AIML Trainingのプログラムを格納しています。
 
-test
